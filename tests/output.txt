@@ -1,0 +1,48 @@
+Test case 1
+Prim's algorithm took 1.0535e-05 seconds.
+Prim's MST weight: 4253
+Kruskal's algorithm took 0.000442791 seconds.
+Kruskal's MST weight: 4253
+Kruskal's algorithm (with Path-Compression) took 0.000115265 seconds.
+PCKruskal's MST weight: 4253
+
+Test case 2
+Prim's algorithm took 6.2194e-05 seconds.
+Prim's MST weight: 20349
+Kruskal's algorithm took 0.000239044 seconds.
+Kruskal's MST weight: 20349
+Kruskal's algorithm (with Path-Compression) took 0.000245561 seconds.
+PCKruskal's MST weight: 20349
+
+Test case 3
+Prim's algorithm took 0.000290395 seconds.
+Prim's MST weight: 428396
+Kruskal's algorithm took 0.00025321 seconds.
+Kruskal's MST weight: 428396
+Kruskal's algorithm (with Path-Compression) took 0.000253944 seconds.
+PCKruskal's MST weight: 428396
+
+Test case 4
+Prim's algorithm took 0.000296601 seconds.
+Prim's MST weight: 421398
+Kruskal's algorithm took 0.000242163 seconds.
+Kruskal's MST weight: 421398
+Kruskal's algorithm (with Path-Compression) took 0.000241153 seconds.
+PCKruskal's MST weight: 421398
+
+Test case 5
+Prim's algorithm took 0.00155159 seconds.
+Prim's MST weight: 15482
+Kruskal's algorithm took 0.0169753 seconds.
+Kruskal's MST weight: 15482
+Kruskal's algorithm (with Path-Compression) took 0.0176416 seconds.
+PCKruskal's MST weight: 15482
+
+Test case 6
+Prim's algorithm took 0.0014947 seconds.
+Prim's MST weight: 14285
+Kruskal's algorithm took 0.0201525 seconds.
+Kruskal's MST weight: 14285
+Kruskal's algorithm (with Path-Compression) took 0.0213462 seconds.
+PCKruskal's MST weight: 14285
+
