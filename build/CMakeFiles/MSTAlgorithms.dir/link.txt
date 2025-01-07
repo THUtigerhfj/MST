@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MSTAlgorithms.dir/src/main.cpp.o CMakeFiles/MSTAlgorithms.dir/src/Prim.cpp.o CMakeFiles/MSTAlgorithms.dir/src/Kruskal.cpp.o CMakeFiles/MSTAlgorithms.dir/src/PCKruskal.cpp.o CMakeFiles/MSTAlgorithms.dir/src/graph.cpp.o -o MSTAlgorithms 
